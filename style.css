@@ -1,0 +1,27 @@
+body{
+    font-family: cursive;
+    background-image: url(images/milos-tomasevic-f0QATZfOTv8-unsplash.jpg);
+    background-size: cover;
+    text-align: center;
+    color: green;
+    font-weight: bolder;
+}
+
+
+h1 {
+    color: goldenrod;
+}
+
+#message-el{
+    font-style: italic;
+}
+
+button {
+    color: #016f32;
+    width: 150px;
+    background-color: goldenrod;
+    padding: 10px;
+    border: 2px solid green;
+    border-radius: 50px;
+    margin: 5px;
+}
